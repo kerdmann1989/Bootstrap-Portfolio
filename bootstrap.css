@@ -2,7 +2,6 @@
 
 .navbar-brand {
     background-color: #4aaaa5;
-    color: white !important;
     font-size: 26px;
     height: 75px;
     padding: 15px;
@@ -13,14 +12,14 @@
 }
 
 
-
-.navbar-nav>li{
+/* .navbar-nav>li{
     border-right: 1px solid #000;
   }
 
   .navbar-nav>li:last-child{
     border: none;
- }
+ } */
+
 /* Body & Container */
  .contentbox {
      background-color: white;
